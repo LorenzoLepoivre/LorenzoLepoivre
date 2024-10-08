@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lepoivre Lorenzo</h1>
 <h3 align="center">I'm a student in computer science and telecommunications from Belgium, I specialize in development. Passionate about programming in all its forms, I strive to explore and master various languages and technologies.</h3>
 
+- 👨‍💻 You can check my CV [https://lorenzolepoivre.github.io/MyWebSite/](https://lorenzolepoivre.github.io/MyWebSite/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-lepoivre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-lepoivre/" height="30" width="40" /></a>
