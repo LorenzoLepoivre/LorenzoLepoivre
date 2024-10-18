@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lepoivre Lorenzo</h1>
 <h3 align="left">I'm a student in computer science and telecommunications from Belgium, I specialize in development. Passionate about programming in all its forms, I strive to explore and master various languages and technologies.</h3>
 
-- 👨‍💻 You can check my CV [https://lorenzolepoivre.github.io/MyWebSite/](https://lorenzolepoivre.github.io/MyWebSite/)
+- 👨‍💻 You can check my CV [https://portfolio-zeta-six-98.vercel.app/](https://portfolio-zeta-six-98.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
